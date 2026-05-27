@@ -1,0 +1,6 @@
+[package]
+name = "rust_exo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
